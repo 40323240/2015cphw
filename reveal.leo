@@ -354,11 +354,14 @@
 <v t="leo.20160105120937.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160105120937.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105120937.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20160105120937.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105120937.7" a="E"><vh>封面</vh>
+<v t="leo.20160105120937.6"><vh>div class="slides"</vh>
+<v t="leo.20160105120937.7"><vh>封面</vh>
 <v t="leo.20160105120937.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20160105120937.9" a="E"><vh>自評</vh>
+<v t="leo.20160108172251.1"><vh>筆記</vh>
+<v t="leo.20160108172251.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160105120937.9"><vh>自評</vh>
 <v t="leo.20160105120937.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -369,8 +372,8 @@
 </v>
 <v t="leo.20160105120938.1"><vh>@clean simplest14.html</vh>
 <v t="leo.20160105120938.2"><vh>檔案說明</vh></v>
-<v t="leo.20160105120938.3" a="E"><vh>html 標註</vh>
-<v t="leo.20160105120938.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105120938.3"><vh>html 標註</vh>
+<v t="leo.20160105120938.4"><vh>body 標註</vh>
 <v t="leo.20160105120938.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105120938.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160105120938.7" a="E"><vh>封面</vh>
@@ -405,14 +408,14 @@
 </v>
 <v t="leo.20160105120941.1"><vh>@clean simplest16.html</vh>
 <v t="leo.20160105120941.2"><vh>檔案說明</vh></v>
-<v t="leo.20160105120941.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105120941.3"><vh>html 標註</vh>
 <v t="leo.20160105120941.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105120941.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105120941.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105120941.7" a="E"><vh>封面</vh>
+<v t="leo.20160105120941.7"><vh>封面</vh>
 <v t="leo.20160105120941.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20160105120941.9" a="E"><vh>自評</vh>
+<v t="leo.20160105120941.9"><vh>自評</vh>
 <v t="leo.20160105120941.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -2622,7 +2625,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
-    &lt;p&gt;又學習一套新的繪圖軟體[ Creo Parametric ]，剛開始使用上就覺得很不適應，不過漸漸的就有比較熟悉，印象最深就是在組裝零件的時候方便又快速，之後也發現這軟體有些功能非常強大，例如可以執行分析、建立彩現影像和動畫等等，又是一個非常棒的軟體。
+    &lt;p&gt;creo零件與組立 剛開始要適應一個新軟體真的很不容易，就光是這個組立的部分少說也組了20幾次，很多細節真的是自己摸很久才知道，像是連桿的部分有兩個孔，一個連接拉桿，一個連接滾筒，所以在兩個孔的設定上就要符合連接件的約束，例如：拉桿用pin 孔就用pin,滾筒用cylinder 孔就用cylinder。
 
 &lt;/p&gt;
     &lt;p&gt;自評分數 : 75&lt;/p&gt;
@@ -2717,7 +2720,8 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
-    &lt;p&gt;又學習一套新的繪圖軟體[ Creo Parametric ]，剛開始使用上就覺得很不適應，不過漸漸的就有比較熟悉，印象最深就是在組裝零件的時候方便又快速，之後也發現這軟體有些功能非常強大，例如可以執行分析、建立彩現影像和動畫等等，又是一個非常棒的軟體。
+    &lt;p&gt;更新leo5.1其實並不難，加上同學也有拍影片教學下載步驟，看著影片自己做也可以成功，但主要還是要了解檔案內部執行指令的途徑，觀念弄正確才不會搞錯。
+
 
 &lt;/p&gt;
     &lt;p&gt;自評分數 : 75&lt;/p&gt;
@@ -2807,7 +2811,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
-    &lt;p&gt;又學習一套新的繪圖軟體[ Creo Parametric ]，剛開始使用上就覺得很不適應，不過漸漸的就有比較熟悉，印象最深就是在組裝零件的時候方便又快速，之後也發現這軟體有些功能非常強大，例如可以執行分析、建立彩現影像和動畫等等，又是一個非常棒的軟體。
+    &lt;p&gt;這週我們需要用Onshape繪製零件，Onshape這個網站真的太強大了!!完全不用安裝任何軟體就可以在瀏覽器上畫圖~其繪製的部分也跟creo大同小異，有了基礎在使用上也更顯的得心應手
 
 &lt;/p&gt;
     &lt;p&gt;自評分數 : 75&lt;/p&gt;
@@ -2897,7 +2901,8 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
-    &lt;p&gt;又學習一套新的繪圖軟體[ Creo Parametric ]，剛開始使用上就覺得很不適應，不過漸漸的就有比較熟悉，印象最深就是在組裝零件的時候方便又快速，之後也發現這軟體有些功能非常強大，例如可以執行分析、建立彩現影像和動畫等等，又是一個非常棒的軟體。
+    &lt;p&gt;這週我們將用Onshape組裝零件，Onshape我最喜歡的就是它還有聊天室的功能，即使畫到一辦遇到一些問題，也可以直接在網頁上發問，組員就會一起幫你解決問題。
+
 
 &lt;/p&gt;
     &lt;p&gt;自評分數 : 75&lt;/p&gt;
@@ -2987,12 +2992,45 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
-    &lt;p&gt;又學習一套新的繪圖軟體[ Creo Parametric ]，剛開始使用上就覺得很不適應，不過漸漸的就有比較熟悉，印象最深就是在組裝零件的時候方便又快速，之後也發現這軟體有些功能非常強大，例如可以執行分析、建立彩現影像和動畫等等，又是一個非常棒的軟體。
+    &lt;p&gt;這週我們將利用solvespace劃出機構圖，然後找出實體操作時的限制，例如哪裡會卡住或是無法轉動，然後在onshape輸入的數值進行模擬。
 
 &lt;/p&gt;
     &lt;p&gt;自評分數 : 75&lt;/p&gt;
 			
     
 &lt;/section&gt;</t>
+<t tx="leo.20160108172251.1">&lt;&lt; header &gt;&gt;
+
+
+
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;p&gt;1.至 Leo-editor GitHub &lt;br&gt;
+2.點選 releases 下載最新的zip檔 (broke-abbrev)&lt;br&gt;
+3.直接將載下來的檔案拉到 Ana3_2015 的 data&lt;br&gt;
+4.至上課業面	&lt;br&gt;
+5.點選左側欄位的 2015fall課程&lt;br&gt;
+6.下載 fix資料夾拉到Ana3_2015&lt;br&gt;
+7.開啟SciTE&lt;br&gt;
+8.將fix資料夾內的fix.bat及start.bat拉入SciTE&lt;br&gt;
+9.fix.bat需新增 
+copy leo-editor-broke-abbrev.zip E:\Ana3_2015\data\ 
+(老師的影片是放在C槽，我的是放在E槽的隨身碟) &lt;br&gt;
+10.start.bat把第25行改為 pip install leo-editor-broke-abbrev.zip 
+點選View → Line Numbers 可以方便找到25行&lt;br&gt;
+11.儲存完之後點選fix.bat&lt;br&gt;
+12.再啟動 start 就安裝了！ &lt;br&gt;
+
+
+
+&lt;/p&gt;
+    &lt;p&gt;自評分數 : 75&lt;/p&gt;
+			
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108172251.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323240"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
